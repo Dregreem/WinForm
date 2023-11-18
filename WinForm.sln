@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TextBox_Label_Button_GroupBox", "01_TextBox_Label_Button_GroupBox\01_TextBox_Label_Button_GroupBox.csproj", "{B79E2AD2-113C-4F6C-AEEC-8445AD5C8796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ListBox_ListView_RadioButton_CheckBox_MaskedTextBox", "02_ListBox_ListView_RadioButton_CheckBox_MaskedTextBox\02_ListBox_ListView_RadioButton_CheckBox_MaskedTextBox.csproj", "{D1DE43F9-4B23-4621-B594-E3D477701509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79E2AD2-113C-4F6C-AEEC-8445AD5C8796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79E2AD2-113C-4F6C-AEEC-8445AD5C8796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79E2AD2-113C-4F6C-AEEC-8445AD5C8796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79E2AD2-113C-4F6C-AEEC-8445AD5C8796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DE43F9-4B23-4621-B594-E3D477701509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DE43F9-4B23-4621-B594-E3D477701509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DE43F9-4B23-4621-B594-E3D477701509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DE43F9-4B23-4621-B594-E3D477701509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17285BBD-56AA-4F35-ABC3-7BF27D44CABF}
+	EndGlobalSection
+EndGlobal
